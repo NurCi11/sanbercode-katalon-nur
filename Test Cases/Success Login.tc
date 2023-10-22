@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c53b791e-f226-4539-b10f-a016bda126c3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c31d3279-e692-4933-b878-7127ef52b534</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>c31d3279-e692-4933-b878-7127ef52b534</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+</TestCaseEntity>
